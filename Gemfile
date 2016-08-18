@@ -45,5 +45,6 @@ end
 group :test do
     gem 'rspec-rails', '3.5.1'
 end
+gem 'autotest-rails'
 
 
